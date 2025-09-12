@@ -37,8 +37,9 @@ There’s also a research paper included in `Dataset/Paper.pdf`. that applies cl
 
 
 ## Students
-- Ebtisam --?-- Alanazi [445200051]
+- Ibtisam Mohammed Alanazi [445200051]
 - Dana Sultan Alotaibi [445203123]
 - Jana Saleh Obaid [445200286]
 - Juri Thamer Alanazi [445200260]
+
 
