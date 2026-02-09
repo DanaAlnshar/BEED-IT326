@@ -1,4 +1,4 @@
-# iT326 Project - KSU 
+# IT326 Project - KSU 
 # EEG Epilepsy Classification
 
 ## Project Information 
@@ -40,6 +40,7 @@ There’s also a research paper included in `Dataset/Paper.pdf`. that applies cl
 - Dana Sultan Alotaibi [445203123]
 - Jana Saleh Obaid [445200286]
 - Juri Thamer Alanazi [445200260]
+
 
 
 
