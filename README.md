@@ -36,10 +36,11 @@ There’s also a research paper included in `Dataset/Paper.pdf`. that applies cl
 
 
 
-## Students
-- Dana Sultan Alotaibi [445203123]
-- Jana Saleh Obaid [445200286]
-- Juri Thamer Alanazi [445200260]
+## Team
+- Dana Sultan Alotaibi 
+- Jana Saleh Obaid 
+- Juri Thamer Alanazi 
+
 
 
 
